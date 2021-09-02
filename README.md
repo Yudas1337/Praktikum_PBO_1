@@ -1,18 +1,12 @@
-## Getting Started
+### Praktikum PBO 1
+This is the first repository from PBO Practice. It is coded with Java Programming language by looking for 4 objects around our house and then determining the inheritance of some of these objects.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- 📝 Pdf filename :[2C_25_Yudas Malabi.pdf](https://github.com/Yudas1337/Praktikum_PBO_1/blob/master/README.md)
 
-## Folder Structure
+### Technologies :
+<ul>
+<li>Java Object Oriented Programming</li>
+<li>IDE : Visual Studio Code with java plugins for compiler</li>
+</ul>
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Credits : Yudas Malabi 😄✌️

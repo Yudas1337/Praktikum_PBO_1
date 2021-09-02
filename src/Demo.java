@@ -22,7 +22,6 @@ public class Demo {
          */
         System.out.println("=========================================");
         System.out.println("Laptop");
-        obj1.setIsPortable(true);
         obj1.screenSize(15.6f);
         obj1.setIsOpenApps(true);
         obj1.setMerk("Asus Republic Of Gamers G531GT");
@@ -50,7 +49,7 @@ public class Demo {
         System.out.println("=========================================");
         System.out.println("Accoustic");
         obj3.setType("Accoustic Guitar");
-        obj3.setEffect("None");
+        obj3.setEffect("Clean");
         obj3.setMaterial("Rosewood");
         obj3.setFret(17);
         obj3.setStrings("Nylon");

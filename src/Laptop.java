@@ -10,14 +10,9 @@
  * @return void
  */
 public class Laptop {
-    private Boolean isPortable, isOpenApps;
+    private Boolean isOpenApps;
     private String merk, color, type;
     private float screenSize;
-
-    public Boolean setIsPortable(Boolean isPortable) {
-        return this.isPortable = isPortable;
-
-    }
 
     public float screenSize(float screenSize) {
         return this.screenSize = screenSize;
@@ -40,7 +35,6 @@ public class Laptop {
     }
 
     public void print() {
-        System.out.println("Portable: " + (this.isPortable ? "Ya" : "Tidak"));
         System.out.println("Status: " + (this.isOpenApps ? "Sedang membuka software" : "software sudah ditutup"));
         System.out.println("Merk: " + this.merk);
         System.out.println("Ukuran Layar: " + this.screenSize);
